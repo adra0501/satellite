@@ -1,0 +1,17 @@
+{
+  "anomaly_detection": {
+    "type": "tensorflow",
+    "input_shape": [12, 34],
+    "threshold": 0.5
+  },
+  "root_cause": {
+    "causes": [
+      "solar_panel_degradation",
+      "cooling_system_failure", 
+      "battery_cell_degradation",
+      "antenna_misalignment",
+      "memory_leak"
+    ]
+  },
+  "version": "1.0"
+}

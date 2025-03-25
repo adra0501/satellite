@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Python virtual environments
+satellite_venv/
+**/venv/
+**/__pycache__/
+
+# Build folders
+*/build/
+*/dist/
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+**/.env
